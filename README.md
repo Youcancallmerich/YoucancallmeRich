@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java, HTML, CSS, Javascript, React**
 
- ⚡ Fun fact **Ancient Egyptian tombs that are over 3,000 years old and still perfectly edible**
+ ⚡ Fun fact **Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible.**
  
  </div>
 
